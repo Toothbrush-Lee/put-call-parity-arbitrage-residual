@@ -6,3 +6,5 @@
 2. 安装requirements.txt 中的一些包
 
 3. 运行`streamlit run main.py`，打开本地网页
+
+![Demo Picture](mainpage.png)
